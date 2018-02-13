@@ -1,3 +1,6 @@
+*.s#?
+*.b#?
+*.l#?
 *.b$?
 *.s$?
 *.l$?
@@ -23,18 +26,8 @@ eagle.epf
 *.xln
 *.drd
 *.drd.*
+*.s#*
+*.b#*
 *.info
 *.eps
 *.lck
-*.000
-*.bak
-*.bck
-*.kicad_pcb-bak
-*~
-_autosave-*
-*.tmp
-*.net
-*.dsn
-*.ses
-*.xml
-*.csv
